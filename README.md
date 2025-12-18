@@ -141,6 +141,9 @@ Drills down into individual exercises.
 fitness-analytics-project
 ├── README.md
 ├── Key_Insights.md
+├── db.pbix
+├── Final_data (1).csv
+├── cleaned_data.csv
 ├── images/
 │   ├── fitness_overview.PNG
 │   ├── workout_performance.PNG
