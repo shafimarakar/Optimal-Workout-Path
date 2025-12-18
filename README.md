@@ -152,7 +152,7 @@ fitness-analytics-project
 │   ├── exercise_level.PNG
 │   ├── work_efficiency_type.png
 │   └── heatmap.png
-└── notebooks/
+└── notebook/
     └── final_analysis.ipynb
 ```
 ---
